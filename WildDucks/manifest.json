@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Wild Ducks",
+  "Authour": "Ananci",
+  "Version": {
+    "MajorVersion": 0,
+    "MinorVersion": 1,
+    "PatchVersion": 0,
+    "Build": ""
+  },
+  "Description": "Allows ducks to spawn in overworld.",
+  "PerSaveConfigs": false,
+  "EntryDll": "WildDucks.dll"
+}
